@@ -17,3 +17,7 @@ python manage.py startapp {appname}
 ```
 python manage.py createsuperuser
 ```
+
+## License
+
+See [LICENSE](LICENSE).
