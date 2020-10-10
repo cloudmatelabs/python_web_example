@@ -21,3 +21,5 @@ python manage.py createsuperuser
 ## License
 
 See [LICENSE](LICENSE).
+
+TEST
